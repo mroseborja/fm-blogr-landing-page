@@ -471,6 +471,7 @@ footer img {
     position: absolute;
     list-style: none;
     background-color: var(--clr-neutral-white);
+    box-shadow: -2px 4px 23px -6px rgba(0, 0, 0, 0.66);
     padding: 1.5rem 9rem 1.5rem 1.5rem;
     border-radius: 5px;
     top: 1.5em;
@@ -572,6 +573,12 @@ footer img {
 .nav-item .nav-link:hover,
 footer a:hover {
   text-decoration: underline;
+}
+
+.button.button-primary:hover,
+.button.button-outline:hover {
+  transition: all 0.3s ease-out;
+  box-shadow: 2px 4px 13px -6px rgba(0, 0, 0, 0.66);
 }
 
 .button.button-primary:hover {
