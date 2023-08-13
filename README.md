@@ -23,15 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](image.png)
-![Desktop View (Sub Menu)](image-3.png)
-![Mobile View](image-1.png)
-![Mobile View (Menu)](image-2.png)
+![Desktop View](screenshots/desktop-view.png)
+![Desktop View (Sub Menu)](screenshots/desktop-menu.png)
+![Mobile View](screenshots/mobile-view.png)
+![Mobile View (Menu)](screenshots/mobile-menu.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/username017/fm-blogr-landing-page)
+- Live Site URL: [Preview](https://fm-blogr-03.netlify.app/)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/username017)
